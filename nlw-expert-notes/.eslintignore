@@ -1,0 +1,14 @@
+package-lock.json
+package.json
+README.md
+eslint.config.js
+.gitignore
+tsconfig.json
+tsconfig.node.json
+postcss.config.js
+.prettierignore
+.eslintignore
+.eslintrc.cjs
+tailwind.config.js
+node_modules/
+public/
