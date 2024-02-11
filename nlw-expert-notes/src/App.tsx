@@ -1,5 +1,5 @@
 import logo from "./assets/Logo.svg";
-import {Cards} from "./components/cards.tsx";
+import { NoteCard } from "./components/noteCard.tsx";
 
 export const App = () => {
     return (
@@ -27,23 +27,14 @@ export const App = () => {
                         </p>
                     </div>
 
-                    <Cards
-                        span={"Há 2 dias"}
-                        p={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur eius fuga id, " +
-                            "magnam magni natus nihil non odio officia praesentium quae recusandae repudiandae sed " +
-                            "tenetur vel voluptate voluptatem? Veniam."}
-                    />
-                    <Cards
-                        span={"Há 4 dias"}
-                        p={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur eius fuga id, " +
-                            "magnam magni natus nihil non odio officia praesentium quae recusandae repudiandae sed " +
-                            "tenetur vel voluptate voluptatem? Veniam."}
-                    />
-                    <Cards
-                        span={"Há 7 dias"}
-                        p={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur eius fuga id, " +
-                            "magnam magni natus nihil non odio officia praesentium quae recusandae repudiandae sed " +
-                            "tenetur vel voluptate voluptatem? Veniam."}
+                    <NoteCard
+                        note={{
+                            date: new Date(),
+                            content:
+                                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur eius fuga id, " +
+                                "magnam magni natus nihil non odio officia praesentium quae recusandae repudiandae sed " +
+                                "tenetur vel voluptate voluptatem? Veniam.",
+                        }}
                     />
                 </div>
             </div>
