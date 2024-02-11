@@ -6,13 +6,12 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:@typescript-eslint/recommended-type-checked',
     'plugin:react-hooks/recommended',
+    "prettier"
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs', "*.svg", ".gitignore", "*.json", "*.md"],
   parser: '@typescript-eslint/parser',
   plugins: ['react-refresh', 'react'],
   rules: {
-    "semi": ["error", "always"],
-    "quotes": ["error", "double"],
     'react/jsx-uses-react': 'error',
     'react/jsx-uses-vars': 'error',
     'react-refresh/only-export-components': [
