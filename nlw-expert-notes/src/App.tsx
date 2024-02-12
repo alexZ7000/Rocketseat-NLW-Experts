@@ -1,4 +1,5 @@
 import logo from "./assets/Logo.svg";
+import { NewNoteCard } from "./components/newNoteCard.tsx";
 import { NoteCard } from "./components/noteCard.tsx";
 
 export const App = () => {
@@ -17,16 +18,7 @@ export const App = () => {
                 </form>
                 <div className={"h-px bg-slate-700"}></div>
                 <div className={"grid auto-rows-[250px] grid-cols-3 gap-6"}>
-                    <div className={"rounded-md bg-slate-700 p-5 space-y-3"}>
-                        <span className={"text-sm font-medium text-slate-200"}>
-                            Adicionar nota
-                        </span>
-                        <p className={"text-sm leading-6 text-slate-400"}>
-                            Grave uma nota em áudio que será convertida para
-                            texto automaticamente.
-                        </p>
-                    </div>
-
+                    <NewNoteCard />
                     <NoteCard
                         note={{
                             date: new Date(),
