@@ -5,8 +5,8 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
     plugins: [
         react({
-            devTarget: "es2022",
+            devTarget: "es2022"
             //plugins: [["@swc/plugin-styled-components", {}]]
-        }),
-    ],
+        })
+    ]
 });
