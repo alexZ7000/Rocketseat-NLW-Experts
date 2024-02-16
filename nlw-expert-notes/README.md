@@ -1,39 +1,23 @@
-# React + TypeScript + Vite
+# Rocketseat-NLW-Experts <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture>
+![image](https://github.com/alexZ7000/Rocketseat-NLW-Experts/assets/78627928/f34e405f-f330-4f1e-93c2-bd084c124bdb)
 
-This template provides a minimal setup to get React working in Vite with HMR and
-some ESLint rules.
+> Trilha React TypeScript da Rocketseat com tailwind 
+<br>
+Essa aplicação foi desenvolvida para praticar conceitos react ts e criar uma aplicação responsiva capaz de criar notas tanto por fala quanto por texto, com mecanismo de pesquisa e padronização/estilização de projeto com eslint + prettier
+<br>
+<br>
+palavra secreta: EXPERT
 
-Currently, two official plugins are available:
+## 🤝 Colaborador
 
--   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-    uses [Babel](https://babeljs.io/) for Fast Refresh
--   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-    uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the
-configuration to enable type aware lint rules:
-
--   Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-    // other rules...
-    parserOptions: {
-        ecmaVersion: "latest",
-        sourceType: "module",
-        project: ["./tsconfig.json", "./tsconfig.node.json"],
-        tsconfigRootDir: __dirname
-    }
-};
-```
-
--   Replace `plugin:@typescript-eslint/recommended` to
-    `plugin:@typescript-eslint/recommended-type-checked` or
-    `plugin:@typescript-eslint/strict-type-checked`
--   Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
--   Install
-    [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and
-    add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends`
-    list
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/78627928?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Alessandro Lima:</i></b> <a href="https://github.com/alexZ7000"><i>alexZ7000</i></a> 🏆</p>
+        </sub>
+      </a>
+    </td>
+</table>
