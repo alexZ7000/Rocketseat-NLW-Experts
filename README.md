@@ -33,7 +33,7 @@ npm run dev
 
 <p>Agora é se divertir usando o NLW Experts 🤓</p>
 
-<h1>Usando o Site T2🤳🏼</h1>
+<h1>Usando o NLW EXPERT NOTES🤳🏼</h1>
 
 ![image](https://github.com/alexZ7000/Rocketseat-NLW-Experts/assets/78627928/bf4cd5ad-98c0-4946-9987-d6e61cb1f2fc)
 > Para adicioonar uma nota basta clicar em adicionar uma nova nota, e escolher se quer fazer sua anotação por voz ou por texto <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="18" height="18"></picture>
