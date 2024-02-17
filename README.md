@@ -8,6 +8,8 @@
 <br>
 palavra secreta: EXPERT
 
+<h3>VOCÊ PODE ACESSAR O NLW EXPERT NOTES CLICANDO <a href="https://alexz7000.github.io/Rocketseat-NLW-Experts/">AQUI</a></h3>
+
 <h1>Como Usar o NLW Experts? <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="32" height="32">
